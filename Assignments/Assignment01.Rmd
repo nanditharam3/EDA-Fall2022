@@ -1,0 +1,43 @@
+---
+title: "Assignment01"
+author: "Nanditha Ram Satagopan"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### My Git settings:
+
+user.name=nanditharam3
+user.email=nanditha.satagopan@duke.edu
+
+Admin@DESKTOP-135D0K6 MINGW64 ~/Desktop/Courses/Sem 1/Environmental
+Data Analytics/EDA-Fall2022 (main)
+$
+
+Admin@DESKTOP-135D0K6 MINGW64 ~/Desktop/Courses/Sem 1/Environmental
+Data Analytics/EDA-Fall2022 (main)
+
+### My Git remote settings:
+
+origin  https://github.com/nanditharam3/EDA-Fall2022 (fetch)
+origin  https://github.com/nanditharam3/EDA-Fall2022 (push)
+upstream        https://github.com/ENV872/EDA-Fall2022 (fetch)
+upstream        DISABLE (push)
+
+Admin@DESKTOP-135D0K6 MINGW64 ~/Desktop/Courses/Sem 1/Environmental
+Data Analytics/EDA-Fall2022 (main)
+
+### My Git changes:
+
+20a7b70 (HEAD -> main, origin/main, origin/HEAD) Add data files
+f992081 Create Assignments folder
+972c063 Create Lessons folder
+34b6cc8 Create .gitignore
+a07d95c Initial commit
+
+Admin@DESKTOP-135D0K6 MINGW64 ~/Desktop/Courses/Sem 1/Environmental
+Data Analytics/EDA-Fall2022 (main)
